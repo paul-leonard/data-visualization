@@ -9,7 +9,7 @@ Jupyter notebook containing data analysis and visualization of two different int
 **Version**: 0.9.0
 
 ## Overview
-Jupyter notebook containing data analysis and visualization of two different intersting datasets.  The first is about MYSTERY and the second is about Kickstarter campaigns.
+Jupyter notebook containing data analysis and visualization of two different intersting datasets.  The first is about the Titanic and the second is about Kickstarter campaigns.
 
 ## Architecture
 This Jupyter notebook running Python code produces data visualizations to allow an analysis of two different data sets.  Technologies and libraries used include pandas, numpy, matplotlib, and seaborn.
