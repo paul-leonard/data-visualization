@@ -1,3 +1,12 @@
+
+
+
+
+
+Data Source:  https://www.kaggle.com/kemical/kickstarter-projects?select=ks-projects-201801.csv
+
+
+
 - [seaborn.barplot](https://seaborn.pydata.org/generated/seaborn.barplot.html)
 - [seaborn.countplot](https://seaborn.pydata.org/generated/seaborn.countplot.html)
 - [rotate x labels](https://stackoverflow.com/questions/26540035/rotate-label-text-in-seaborn-factorplot)
